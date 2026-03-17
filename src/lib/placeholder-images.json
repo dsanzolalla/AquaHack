@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-water-source",
+      "description": "A child drinking clean water from a tap.",
+      "imageUrl": "https://static.ecestaticos.com/file/528/f93/e80/528f93e8016cf628c5fbde0f73c59965.jpg",
+      "imageHint": "child drinking water"
+    },
+    {
+      "id": "resource-water-testing",
+      "description": "A person testing water quality.",
+      "imageUrl": "https://images.unsplash.com/photo-1617155093730-a8bf47be792d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3YXRlciUyMHRlc3Rpbmd8ZW58MHx8fHwxNzYxNjQ0NzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water testing"
+    },
+    {
+      "id": "resource-boiling-water",
+      "description": "A pot of water boiling over a fireplace.",
+      "imageUrl": "https://noticiasdelaciencia.com/upload/images/08_2023/2109_fireplace-1681147_1280.jpg",
+      "imageHint": "boiling water fireplace"
+    },
+    {
+      "id": "resource-water-filter",
+      "description": "A person using a LifeStraw water filter to drink directly from a water source.",
+      "imageUrl": "https://cristinaalcalammk.wordpress.com/wp-content/uploads/2015/04/lifestraw-11.jpg",
+      "imageHint": "water filter"
+    },
+    {
+      "id": "resource-chemical-disinfection",
+      "description": "Water purification tablets for chemical disinfection.",
+      "imageUrl": "https://campingsport.es/img/cms/pastillassss.jpg",
+      "imageHint": "purification tablets"
+    },
+    {
+      "id": "resource-storing-water",
+      "description": "Blue jerrycans being filled with clean water from a tap.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTURdnYQ5s5gY5AZq3caPtpIas1GQol6E0gg&s",
+      "imageHint": "water storage jerrycan"
+    }
+  ]
+}
